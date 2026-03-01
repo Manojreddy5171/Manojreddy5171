@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on<br>Building full stack projects using Java and React.js<br><br>👯 I’m looking to collaborate on<br>Frontend and Java-based backend projects<br><br>🤝 I’m looking for help with<br>Advanced DSA and system design<br><br>🌱 I’m currently learning<br>Backend development and interview preparation<br><br>💬 Ask me about<br>React.js, Java basics, and web development<br><br>⚡ Fun fact<br>Career transition from Non-IT to Software Engineering 🚀
+🔭 I’m currently working on :<br>Building full stack projects using Java and React.js<br><br>👯 I’m looking to collaborate on<br>Frontend and Java-based backend projects<br><br>🤝 I’m looking for help with<br>Advanced DSA and system design<br><br>🌱 I’m currently learning<br>Backend development and interview preparation<br><br>💬 Ask me about<br>React.js, Java basics, and web development<br><br>⚡ Fun fact<br>Career transition from Non-IT to Software Engineering 🚀
 
 
 # 💻 Tech Stack:
