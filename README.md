@@ -1,23 +1,56 @@
-# 💫 About Me:
-I’m looking to collaborate on<br>Frontend and Java-based backend projects<br><br>🤝 I’m looking for help with<br>Advanced DSA and system design<br><br>🌱 I’m currently learning<br>Backend development and interview preparation<br><br>💬 Ask me about<br>React.js, Java basics, and web development<br><br>⚡ Fun fact<br>Career transition from Non-IT to Software Engineering 🚀
 
+# 👋 Hi, I'm Manoj Reddy
 
-# 💻 Tech Stack:
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Manojreddy5171&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Manojreddy5171&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Manojreddy5171&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+### Aspiring Agentic AI Engineer | Learning in Public 🚀
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+I'm a 2025 Computer Science graduate exploring the world of Artificial Intelligence and Software Engineering.
 
+I'm currently starting my journey into Agentic AI from the fundamentals, learning how programming, Large Language Models, and AI agents work.
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/mnu_rdy_11) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/manoj-reddy-ch) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:manojreddy.ch5171@gmail.com) 
-
+I believe in learning by building, experimenting, making mistakes, and sharing the process.
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Manojreddy5171&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🌱 Currently Learning
+
+- Python Programming
+- Data Structures and Algorithms
+- Object-Oriented Programming
+- Generative AI and Large Language Models
+- AI Agents and Agentic AI
+
+## 💻 Previously Worked With
+
+- Java
+- JavaScript
+- React.js
+- HTML5 & CSS3
+- Git & GitHub
+- Adobe XD & Photoshop
+
+## 🎯 My Goals
+
+- Build strong programming fundamentals.
+- Understand how LLMs work.
+- Learn to build AI-powered applications.
+- Develop practical AI agents.
+- Build real-world projects and share them publicly.
+
+## 🚀 Projects
+
+- **CDC Web Application:** A React.js project developed during a 24-hour college hackathon. Our team secured second place.
+- **Personal Portfolio:** A website showcasing my learning and development projects.
+- **RoamAura:** A travel-themed web development project.
+
+## 🤝 Let's Connect
+
+- [LinkedIn](https://linkedin.com/in/manoj-reddy-ch-160685208/)
+- [GitHub](https://github.com/Manojreddy5171)
+
+---
+
+### 📌 Learning in Public
+
+Starting from the fundamentals. Building one project at a time.
+
+**The goal: Understand AI, build intelligent agents, and grow into an Agentic AI Engineer.**
